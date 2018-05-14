@@ -1,0 +1,43 @@
+/* Fonts */
+@font-face {
+  font-family: 'Overlock';
+  src: url("../font/Overlock/Overlock-Italic.woff2") format("woff2"), url("../font/Overlock/Overlock-Italic.woff") format("woff");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Overlock';
+  src: url("../font/Overlock/Overlock-Bold.woff2") format("woff2"), url("../font/Overlock/Overlock-Bold.woff") format("woff");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Overlock';
+  src: url("../font/Overlock/Overlock-Regular.woff2") format("woff2"), url("../font/Overlock/Overlock-Regular.woff") format("woff");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Signika';
+  src: url("../font/Signika/signika-semibold-webfont.woff2") format("woff2"), url("../font/Signika/signika-semibold-webfont.woff") format("woff");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Signika';
+  src: url("../font/Signika/signika-light-webfont.woff2") format("woff2"), url("../font/Signika/signika-light-webfont.woff") format("woff");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url("../font/PTSans/ptsans-bold.woff") format("woff");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url("../font/PTSans/ptsans-regular.woff") format("woff");
+  font-style: normal;
+}
+/*# sourceMappingURL=font.css.map */
